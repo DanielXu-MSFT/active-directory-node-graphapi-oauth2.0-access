@@ -87,10 +87,10 @@ The Graph API is compatible with OData V3 and enables applications to construct 
 ![Click the User Manager button](./Images/6.png)
 
 - Perform CURD operations for these users' info.
-    - Add user
+    - Add user (via fill in the blanks, i.e. display name, principal name)
     ![Add user](./Images/7.png)
 
-    - Edit user
+    - Edit user (via fill in the blanks, i.e. display name, principal name)
 
     ![Edit user](./Images/8.png)
 
